@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfMasteringItContest.frmShowQuestion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfMasteringItContest"
+        mc:Ignorable="d"
+        Title="frmShowQuestion" Height="700" Width="1200" ResizeMode="NoResize" WindowStyle="None" WindowState="Maximized" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" MouseDoubleClick="Window_MouseDoubleClick" MouseDown="Window_MouseDown" KeyDown="window_KeyDown" KeyUp="window_KeyUp" Background="White">
+    <Grid>
+        <Grid x:Name="gridGameMain" Background="#FFECECEC">
+            <StackPanel x:Name="stpGamePlay" Margin="0">
+                <TextBlock x:Name="txbTenCauHoi" TextWrapping="Wrap" d:LayoutOverrides="LeftPosition, RightPosition" FontSize="24" FontWeight="Bold" FontFamily="Calibri" TextDecorations="Underline" Padding="30,0,30,10" Margin="50,0"/>
+                <TextBlock x:Name="txbNoiDungCauHoi" TextWrapping="Wrap" FontWeight="Bold" FontSize="28" d:LayoutOverrides="LeftPosition, RightPosition" Padding="30,0,30,30" FontFamily="Calibri" Margin="50,0"/>
+                <UniformGrid x:Name="uniformGridLuaChon" d:LayoutOverrides="Width, LeftPosition, RightPosition" Margin="50,0">
+                    <Grid x:Name="gridA" Margin="0">
+                        <TextBlock x:Name="txbA" Margin="0" TextWrapping="Wrap" FontSize="36" FontFamily="Calibri" FontWeight="Bold" HorizontalAlignment="Left" Padding="30,0,0,0" VerticalAlignment="Top"/>
+                        <TextBlock x:Name="txbLuaChonA" TextWrapping="Wrap" FontSize="36" Foreground="Black" Padding="0" Margin="70,0,0,20" d:LayoutOverrides="Height" HorizontalAlignment="Left" FontFamily="Calibri"/>
+                    </Grid>
+                    <Grid x:Name="gridB">
+                        <TextBlock x:Name="txbB" Margin="0" TextWrapping="Wrap" FontSize="36" FontFamily="Calibri" FontWeight="Bold" HorizontalAlignment="Left" Padding="30,0,0,0" VerticalAlignment="Top"/>
+                        <TextBlock x:Name="txbLuaChonB" TextWrapping="Wrap" FontSize="36" Padding="0,0,0,20" Margin="70,0,0,20" HorizontalAlignment="Left" d:LayoutOverrides="Height" FontFamily="Calibri"/>
+                    </Grid>
+                    <Grid x:Name="gridC" Margin="0">
+                        <TextBlock x:Name="txbC" Margin="0" TextWrapping="Wrap" FontSize="36" FontFamily="Calibri" FontWeight="Bold" HorizontalAlignment="Left" Padding="30,0,0,0" VerticalAlignment="Top"/>
+                        <TextBlock x:Name="txbLuaChonC" TextWrapping="Wrap" FontSize="36" Padding="0" Margin="70,0,0,0" HorizontalAlignment="Left" d:LayoutOverrides="Height" FontFamily="Calibri"/>
+                    </Grid>
+                    <Grid x:Name="gridD">
+                        <TextBlock x:Name="txbD" Margin="0" TextWrapping="Wrap" FontSize="36" FontFamily="Calibri" FontWeight="Bold" HorizontalAlignment="Left" Padding="30,0,0,0" VerticalAlignment="Top"/>
+                        <TextBlock x:Name="txbLuaChonD" TextWrapping="Wrap" FontSize="36" Padding="0" Margin="70,0,0,0" HorizontalAlignment="Left" d:LayoutOverrides="Height" FontFamily="Calibri"/>
+                    </Grid>
+                </UniformGrid>
+            </StackPanel>
+        </Grid>
+        <ProgressBar x:Name="prgTime" VerticalAlignment="Bottom" Foreground="Black" Background="#FF467074" BorderThickness="1" BorderBrush="{x:Null}" Margin="0" Height="20"/>
+        <TextBlock x:Name="txbTime" Margin="0" TextWrapping="Wrap" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="14" FontFamily="Calibri" FontWeight="Bold" Foreground="White" Text="):"/>
+
+    </Grid>
+</Window>

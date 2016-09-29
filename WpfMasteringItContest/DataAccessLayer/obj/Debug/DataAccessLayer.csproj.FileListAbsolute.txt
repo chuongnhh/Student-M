@@ -1,0 +1,5 @@
+C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
