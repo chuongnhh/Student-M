@@ -1,0 +1,10 @@
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\bin\Debug\hcColor.exe.config
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\bin\Debug\hcColor.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\bin\Debug\hcColor.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\obj\Debug\hcColor.frmMain.resources
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\obj\Debug\hcColor.frmMeasureColor.resources
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\obj\Debug\hcColor.frmSerialPort.resources
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\obj\Debug\hcColor.Properties.Resources.resources
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\obj\Debug\hColor.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\obj\Debug\hcColor.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\hcColor\hcColor\obj\Debug\hcColor.pdb

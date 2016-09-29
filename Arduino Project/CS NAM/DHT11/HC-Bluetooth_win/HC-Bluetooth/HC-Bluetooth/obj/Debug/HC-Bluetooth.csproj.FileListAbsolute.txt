@@ -1,0 +1,128 @@
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\HC-Bluetooth.build.appxrecipe
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\HC-Bluetooth.xr.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\HC-Bluetooth.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\HC-Bluetooth.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\HC-Bluetooth.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\HC-Bluetooth.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\App.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\MainPage.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.xr.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\resources.pri
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\AppxManifest.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.build.appxrecipe
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.g.i.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.g.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.g.i.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.g.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.xaml
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.xaml
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\HC-Bluetooth.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\HC-Bluetooth.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\priconfig.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\layout.resfiles
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\resources.resfiles
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\pri.resfiles
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\qualifiers.txt
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nguyen Hoang Chuong\Desktop\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\ProjectArchitectures.txt
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\bin\Debug\App.xbf
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\bin\Debug\MainPage.xbf
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.xr.xml
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.exe
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.pdb
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\bin\Debug\resources.pri
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\bin\Debug\AppxManifest.xml
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.build.appxrecipe
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.g.i.cs
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.g.cs
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.g.i.cs
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.g.cs
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\XamlTypeInfo.g.cs
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.xaml
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.xbf
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\XamlSaveStateFile.xml
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.xaml
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.xbf
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\HC-Bluetooth.exe
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\HC-Bluetooth.pdb
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\priconfig.xml
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\priconfig.xml.intermediate
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\layout.resfiles
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\layout.resfiles.intermediate
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\resources.resfiles
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\resources.resfiles.intermediate
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\pri.resfiles
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\pri.resfiles.intermediate
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\qualifiers.txt
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\qualifiers.txt.intermediate
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.g.i.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.g.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.g.i.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.g.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.xaml
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\App.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\HC-Bluetooth.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\HC-Bluetooth.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\App.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\MainPage.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.xr.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\resources.pri
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\AppxManifest.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\bin\Debug\HC-Bluetooth.build.appxrecipe
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.xaml
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MainPage.xbf
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\priconfig.xml
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\layout.resfiles
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\resources.resfiles
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\pri.resfiles
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\qualifiers.txt
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nguyen Hoang Chuong\Desktop\DHT11\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth\obj\Debug\ProjectArchitectures.txt

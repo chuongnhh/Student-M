@@ -1,0 +1,9 @@
+C:\Users\Nguyen Hoang Chuong\Desktop\Esp8266_Client\Esp8266_Client\bin\Debug\Esp8266_Client.exe.config
+C:\Users\Nguyen Hoang Chuong\Desktop\Esp8266_Client\Esp8266_Client\bin\Debug\Esp8266_Client.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\Esp8266_Client\Esp8266_Client\bin\Debug\Esp8266_Client.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\Esp8266_Client\Esp8266_Client\obj\Debug\Esp8266_Client.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Chuong\Desktop\Esp8266_Client\Esp8266_Client\obj\Debug\Esp8266_Client.Form1.resources
+C:\Users\Nguyen Hoang Chuong\Desktop\Esp8266_Client\Esp8266_Client\obj\Debug\Esp8266_Client.Properties.Resources.resources
+C:\Users\Nguyen Hoang Chuong\Desktop\Esp8266_Client\Esp8266_Client\obj\Debug\Esp8266_Client.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Chuong\Desktop\Esp8266_Client\Esp8266_Client\obj\Debug\Esp8266_Client.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\Esp8266_Client\Esp8266_Client\obj\Debug\Esp8266_Client.pdb

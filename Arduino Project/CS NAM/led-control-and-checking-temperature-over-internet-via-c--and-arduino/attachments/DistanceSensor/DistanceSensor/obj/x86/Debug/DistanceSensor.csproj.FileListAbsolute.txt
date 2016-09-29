@@ -1,0 +1,16 @@
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.Form1.resources
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.Properties.Resources.resources
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\bin\Debug\DistanceSensor.exe
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\bin\Debug\DistanceSensor.pdb
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.exe
+D:\Sajat Oldalak\ElectroCorner.net Files\ElectroCorner.net - Projects\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\led-control-and-checking-temperature-over-internet-via-c--and-arduino\attachments\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\led-control-and-checking-temperature-over-internet-via-c--and-arduino\attachments\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\led-control-and-checking-temperature-over-internet-via-c--and-arduino\attachments\DistanceSensor\DistanceSensor\bin\Debug\DistanceSensor.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\led-control-and-checking-temperature-over-internet-via-c--and-arduino\attachments\DistanceSensor\DistanceSensor\bin\Debug\DistanceSensor.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\led-control-and-checking-temperature-over-internet-via-c--and-arduino\attachments\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.Form1.resources
+C:\Users\Nguyen Hoang Chuong\Desktop\led-control-and-checking-temperature-over-internet-via-c--and-arduino\attachments\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.Properties.Resources.resources
+C:\Users\Nguyen Hoang Chuong\Desktop\led-control-and-checking-temperature-over-internet-via-c--and-arduino\attachments\DistanceSensor\DistanceSensor\obj\x86\Debug\DistanceSensor.csproj.GenerateResource.Cache

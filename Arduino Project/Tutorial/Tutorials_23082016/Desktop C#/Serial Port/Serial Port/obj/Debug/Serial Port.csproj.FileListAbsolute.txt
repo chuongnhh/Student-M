@@ -1,0 +1,8 @@
+C:\Users\Nguyen Hoang Chuong\Desktop\Tutorials\Desktop C#\Serial Port\Serial Port\bin\Debug\Serial Port.exe.config
+C:\Users\Nguyen Hoang Chuong\Desktop\Tutorials\Desktop C#\Serial Port\Serial Port\bin\Debug\Serial Port.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\Tutorials\Desktop C#\Serial Port\Serial Port\bin\Debug\Serial Port.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\Tutorials\Desktop C#\Serial Port\Serial Port\obj\Debug\Serial_Port.Properties.Resources.resources
+C:\Users\Nguyen Hoang Chuong\Desktop\Tutorials\Desktop C#\Serial Port\Serial Port\obj\Debug\Serial Port.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Chuong\Desktop\Tutorials\Desktop C#\Serial Port\Serial Port\obj\Debug\Serial Port.exe
+C:\Users\Nguyen Hoang Chuong\Desktop\Tutorials\Desktop C#\Serial Port\Serial Port\obj\Debug\Serial Port.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\Tutorials\Desktop C#\Serial Port\Serial Port\obj\Debug\Serial_Port.frmSerialPort.resources

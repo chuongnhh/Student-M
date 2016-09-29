@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHUONGNH</Machine>
+    <WindowsUser>Nguyen Hoang Chuong</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>89c0a782-b957-4a92-aef6-d6d3e05924ad</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Nguyen Hoang Chuong</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\bin\Debug\ArduinoBluetooth.exe">
+      <PackagePath>ArduinoBluetooth.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\bin\Debug\ArduinoBluetooth.xr.xml">
+      <PackagePath>ArduinoBluetooth.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Study\Arduino Project\Visual Studio\ArduinoBluetooth\ArduinoBluetooth\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
