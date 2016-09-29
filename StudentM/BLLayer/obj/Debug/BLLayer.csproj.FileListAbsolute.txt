@@ -1,0 +1,16 @@
+C:\Users\Nguyen Hoang Chuong\Desktop\StudentM\BLLayer\bin\Debug\BLLayer.dll.config
+C:\Users\Nguyen Hoang Chuong\Desktop\StudentM\BLLayer\bin\Debug\BLLayer.dll
+C:\Users\Nguyen Hoang Chuong\Desktop\StudentM\BLLayer\bin\Debug\BLLayer.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\StudentM\BLLayer\obj\Debug\BLLayer.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Chuong\Desktop\StudentM\BLLayer\obj\Debug\BLLayer.dll
+C:\Users\Nguyen Hoang Chuong\Desktop\StudentM\BLLayer\obj\Debug\BLLayer.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\StudentM\BLLayer\bin\Debug\DALayer.dll
+C:\Users\Nguyen Hoang Chuong\Desktop\StudentM\BLLayer\bin\Debug\DALayer.pdb
+D:\Project\StudentM\BLLayer\bin\Debug\BLLayer.dll.config
+D:\Project\StudentM\BLLayer\bin\Debug\BLLayer.dll
+D:\Project\StudentM\BLLayer\bin\Debug\BLLayer.pdb
+D:\Project\StudentM\BLLayer\bin\Debug\DALayer.dll
+D:\Project\StudentM\BLLayer\bin\Debug\DALayer.pdb
+D:\Project\StudentM\BLLayer\obj\Debug\BLLayer.csprojResolveAssemblyReference.cache
+D:\Project\StudentM\BLLayer\obj\Debug\BLLayer.dll
+D:\Project\StudentM\BLLayer\obj\Debug\BLLayer.pdb
