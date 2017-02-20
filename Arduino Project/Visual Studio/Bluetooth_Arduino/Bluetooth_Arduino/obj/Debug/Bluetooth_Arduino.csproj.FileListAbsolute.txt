@@ -1,9 +1,0 @@
-C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth_Arduino\Bluetooth_Arduino\bin\Debug\Bluetooth_Arduino.exe.config
-C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth_Arduino\Bluetooth_Arduino\bin\Debug\Bluetooth_Arduino.exe
-C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth_Arduino\Bluetooth_Arduino\bin\Debug\Bluetooth_Arduino.pdb
-C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth_Arduino\Bluetooth_Arduino\obj\Debug\Bluetooth_Arduino.Properties.Resources.resources
-C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth_Arduino\Bluetooth_Arduino\obj\Debug\Bluetooth_Arduino.csproj.GenerateResource.Cache
-C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth_Arduino\Bluetooth_Arduino\obj\Debug\Bluetooth_Arduino.exe
-C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth_Arduino\Bluetooth_Arduino\obj\Debug\Bluetooth_Arduino.pdb
-C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth_Arduino\Bluetooth_Arduino\obj\Debug\Bluetooth_Arduino.frmMain.resources
-C:\Users\Nguyen Hoang Chuong\Desktop\Bluetooth_Arduino\Bluetooth_Arduino\obj\Debug\Bluetooth_Arduino.csprojResolveAssemblyReference.cache

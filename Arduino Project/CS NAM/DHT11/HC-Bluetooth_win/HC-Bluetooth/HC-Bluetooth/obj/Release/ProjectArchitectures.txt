@@ -1,1 +1,0 @@
-C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\QuickPrint.WindowsPhone.csproj;neutral

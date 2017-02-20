@@ -1,1 +1,0 @@
-C:\Users\Nguyen Hoang Chuong\Desktop\C#\BluetoothCommunicationSampleController\BluetoothCommunicationSampleController.csproj;x86

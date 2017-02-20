@@ -1,1 +1,0 @@
-D:\Study\Arduino Project\Bluetooth\HC-Bluetooth3\HC-Bluetooth\HC-Bluetooth\HC-Bluetooth.csproj;neutral

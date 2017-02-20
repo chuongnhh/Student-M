@@ -1,0 +1,23 @@
+{
+  "name": "fb-chat-bot",
+  "version": "1.0.0",
+  "description": "Tu dong tra loi tin nhan facebook\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C tren facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "facebook chat bot"
+  },
+  "keywords": [
+    "facebook",
+    "chat",
+    "bot"
+  ],
+  "author": "nguyen hoang chuong",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "^1.2.0"
+  }
+}

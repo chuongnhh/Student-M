@@ -1,0 +1,13 @@
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\DatabaseObject.dll.config
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\DatabaseObject.dll
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\DatabaseObject.pdb
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\CodeHelper.dll
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\EntityFramework.dll
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\CodeHelper.pdb
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\CodeHelper.dll.config
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\EntityFramework.xml
+D:\Project\New folder\MasteringIt\DatabaseObject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\New folder\MasteringIt\DatabaseObject\obj\Debug\DatabaseObject.csprojResolveAssemblyReference.cache
+D:\Project\New folder\MasteringIt\DatabaseObject\obj\Debug\DatabaseObject.dll
+D:\Project\New folder\MasteringIt\DatabaseObject\obj\Debug\DatabaseObject.pdb

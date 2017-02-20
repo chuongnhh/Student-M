@@ -1,7 +1,0 @@
-C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\BusinessLogicLayr\bin\Debug\BusinessLogicLayr.dll
-C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\BusinessLogicLayr\bin\Debug\BusinessLogicLayr.pdb
-C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\BusinessLogicLayr\obj\Debug\BusinessLogicLayr.csprojResolveAssemblyReference.cache
-C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\BusinessLogicLayr\obj\Debug\BusinessLogicLayr.dll
-C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\BusinessLogicLayr\obj\Debug\BusinessLogicLayr.pdb
-C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\BusinessLogicLayr\bin\Debug\DataAccessLayer.dll
-C:\Users\Nguyen Hoang Chuong\Desktop\WpfMasteringItContest\BusinessLogicLayr\bin\Debug\DataAccessLayer.pdb
